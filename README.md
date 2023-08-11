@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammad-ubaid-nawaz-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-ubaid-nawaz-khan" height="30" width="40" /></a>
+<a href="https://pk.linkedin.com/in/muhammad-ubaid-nawaz-khan-60a186159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-ubaid-nawaz-khan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/muhammad-ubaid-nawaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muhammad-ubaid-nawaz" height="30" width="40" /></a>
 <a href="https://fb.com/muhammad ubaid nawaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad ubaid nawaz" height="30" width="40" /></a>
 </p>
